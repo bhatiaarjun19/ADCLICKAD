@@ -1,2 +1,0 @@
-# ADCLICKAD
-Our small project
